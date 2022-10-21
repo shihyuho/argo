@@ -1,0 +1,5 @@
+commonLabels:
+  app: test
+namespace: tglife
+resources:
+  - ingress.yaml
